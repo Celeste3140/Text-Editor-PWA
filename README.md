@@ -6,6 +6,7 @@ This application is a text editor that runs in the browser. Meeting PWA criteria
 Deployed Application: 
 
 ## User Story 
+
 As a developer I want to create notes or code snippets with or without an internet connection so that I can reliably retrieve them for later use.
 
 ## Acceptance Criteria
